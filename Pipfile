@@ -1,0 +1,23 @@
+[[source]]
+verify_ssl = true
+url = "https://pypi.org/simple"
+name = "pypi"
+
+[packages]
+attrdict = "==2.0.1"
+attrs = "==20.2.0"
+certifi = "==2020.6.20"
+chardet = "==3.0.4"
+cloudpickle = "==1.6.0"
+flask = "==1.1.2"
+flask-ext = "==0.1"
+numpy = "==1.19.4"
+pandas = "==1.1.4"
+pyknp = "==0.4.5"
+pytz = "==2020.4"
+torch = "==1.6.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.5"

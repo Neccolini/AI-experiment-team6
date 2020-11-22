@@ -1,0 +1,5 @@
+実装はこちらに載せてあります. 事前学習モデルは容量の関係であげることができなかったので, 試すことはできません.
+https://github.com/Neccolini/AI-experiment-team6
+
+実際に機能を試すには以下のサイトからダウンロードしてください.
+https://github.com/Neccolini/emoji-adder 
